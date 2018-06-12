@@ -3,9 +3,9 @@
 # i686-elf-tools.sh
 # v1.1
 
-BINUTILS_VERSION=2.28
-GCC_VERSION=7.1.0
-GDB_VERSION=8.0
+BINUTILS_VERSION=2.30
+GCC_VERSION=8.1.0
+GDB_VERSION=8.1
 
 BUILD_DIR="$HOME/build-i686-elf"
 export PATH="$BUILD_DIR/linux/output/bin:$BUILD_DIR/windows/output/bin:$PATH"
